@@ -6,27 +6,27 @@ const Project = () => {
   const projects = [
     {
       name: "Instagram Clone",
-      link: "https://shopme-brown.vercel.app/"
+      link: "https://github.com/akhmis-oussama/Instagram"
     },
     {
       name: "Musical Haven",
-      link: "https://food-ordering-eta.vercel.app/"
+      link: "https://github.com/Irrelvnt/musical-haven"
     },
     {
       name: "DigiWardrobe",
-      link: "https://github.com/mehmetkaplanse/FullStackPosApp"
+      link: "https://github.com/akhmis-oussama/Mcommerce"
     },
     {
       name: "Exams Downloader",
-      link: "https://github.com/mehmetkaplanse/ecommerce-app-with-react"
+      link: "https://github.com/akhmis-oussama/Containerization-Orchestration"
     },
     {
       name: "Expenses Tracker",
-      link: "https://github.com/mehmetkaplanse/Lenslight-Project-Nodejs-Express.js-"
+      link: "https://github.com/akhmis-oussama/ExpensesTracker"
     },
     {
       name: "E-HealthMate",
-      link: "https://github.com/mehmetkaplanse/Lenslight-Project-Nodejs-Express.js-"
+      link: "https://github.com/akhmis-oussama/E-healthmate"
     }
   ]
 
